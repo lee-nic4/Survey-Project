@@ -1,5 +1,7 @@
 body {
     background-image: url(https://cdn.pixabay.com/photo/2021/02/03/12/34/clipboard-5977795_1280.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: verdana;
     padding: 20px;
     width: 100%;
