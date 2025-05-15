@@ -30,8 +30,8 @@ form {
 
 .survey {
   display: block;
-    position: absolute;
-    width: 75%;
+    position: relative;
+    width: 80%;
   background-color: rgba(0, 100, 0, 0.85);
   margin: auto;
   padding: 20px 20px;
